@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "newtodolistmm": {
+      "hosting": {
+        "firebase-todolist": [
+          "newtodolistmm"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "newtodolistmm"
+  }
+}
